@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Passive Mode",
+    "description": "Automatically follow the currently playing album or artist, toggle Spotify sidebars, and use a focused Cinema Mode.",
+    "preview": "preview.png",
+    "main": "passiveAlbumMode.js",
+    "readme": "README.md",
+    "authors": [
+      {
+        "name": "Toadpower1",
+        "url": "https://github.com/Toadpower1"
+      }
+    ],
+    "tags": [
+      "now-playing",
+      "navigation",
+      "album",
+      "artist",
+      "sidebar",
+      "cinema"
+    ]
+  }
+]
